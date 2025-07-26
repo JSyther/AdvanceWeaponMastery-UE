@@ -1,4 +1,5 @@
-[![Watch the video](https://img.youtube.com/vi/XROXWJvaZvw/0.jpg)](https://www.youtube.com/watch?v=XROXWJvaZvw)
+[![Watch the video]
+(https://img.youtube.com/vi/XROXWJvaZvw/0.jpg)](https://www.youtube.com/watch?v=XROXWJvaZvw)
 
 
 # Advance Weapon Mastery
